@@ -25,6 +25,11 @@ public class Solution {
             if (nums[mid] == target) {
                 return mid;
             }
+
+            /**
+             * 我们将数组从中间分开成左右两部分的时候，一定有一部分的数组是有序的。
+             * 判断nums[0]和nums[mid]大小关系，就是寻找有序的那一部分
+             */
             if (nums[0] <= nums[mid]) {
                 if (nums[0] <= target && nums[mid] > target) {
                     right = mid - 1;

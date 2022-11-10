@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No56_merge/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No62_uniquePaths/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.No49_groupAnagrams.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="No11_maxArea.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No11_maxArea.Solution" />
       <module name="LeetcodeHot100" />
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No3_longestSubString.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No62_uniquePaths.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="No3_longestSubString.*" />
+          <option name="PATTERN" value="No62_uniquePaths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.No49_groupAnagrams.Solution" />
         <item itemvalue="Application.No46_permute.Solution" />
         <item itemvalue="Application.No34_searchRange.Solution" />
         <item itemvalue="Application.No11_maxArea.Solution" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +148,11 @@
           <url>file://$PROJECT_DIR$/src/No34_searchRange/Solution.java</url>
           <line>24</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No62_uniquePaths/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

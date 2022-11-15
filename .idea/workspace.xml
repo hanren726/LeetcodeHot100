@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No96_numTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No98_isValidBST/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +29,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
   <component name="RunManager" selected="Application.No78_subSets.Solution">
     <configuration name="No64_minPathSum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No64_minPathSum.Solution" />
@@ -124,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667195536407</updated>
       <workItem from="1667195537682" duration="4919000" />
+      <workItem from="1668479414216" duration="634000" />
     </task>
     <servers />
   </component>

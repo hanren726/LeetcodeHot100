@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No98_isValidBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No101_isSymmetric/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/No98_isValidBST/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No98_isValidBST/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.No78_subSets.Solution">
@@ -119,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667195536407</updated>
       <workItem from="1667195537682" duration="4919000" />
-      <workItem from="1668479414216" duration="634000" />
+      <workItem from="1668479414216" duration="1107000" />
     </task>
     <servers />
   </component>

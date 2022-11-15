@@ -4,6 +4,7 @@ import Common.TreeNode;
 
 /**
  *  重点在于保证，root右边所有节点都是比root大的，仅满足比自己的根节点大是不够的
+ *  所以递归函数里，需要带上下限
  */
 
 public class Solution {

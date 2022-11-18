@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No136_singleNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No139_wordBreak/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.No136_singleNumber.Solution">
+  <component name="RunManager" selected="Application.No139_wordBreak.Solution">
     <configuration name="No105_buildTree.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No105_buildTree.Solution" />
       <module name="LeetcodeHot100" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No75_sortColors.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No75_sortColors.Solution" />
+    <configuration name="No139_wordBreak.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No139_wordBreak.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="No75_sortColors.*" />
+          <option name="PATTERN" value="No139_wordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No139_wordBreak.Solution" />
         <item itemvalue="Application.No136_singleNumber.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.No105_buildTree.Solution" />
         <item itemvalue="Application.No78_subSets.Solution" />
-        <item itemvalue="Application.No75_sortColors.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667195536407</updated>
       <workItem from="1667195537682" duration="4919000" />
-      <workItem from="1668479414216" duration="15151000" />
+      <workItem from="1668479414216" duration="18177000" />
     </task>
     <servers />
   </component>
@@ -150,6 +150,16 @@
           <url>file://$PROJECT_DIR$/src/No128_longestConsecutive/Solution.java</url>
           <line>45</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No139_wordBreak/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No139_wordBreak/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

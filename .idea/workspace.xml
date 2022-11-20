@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No148_sortLinkList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No152_maxProduct/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.No148_sortLinkList.Solution">
+  <component name="RunManager" selected="Application.No152_maxProduct.Solution">
     <configuration name="No136_singleNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No136_singleNumber.Solution" />
       <module name="LeetcodeHot100" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No128_longestConsecutive.Solution" />
+    <configuration name="No152_maxProduct.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No152_maxProduct.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="No128_longestConsecutive.*" />
+          <option name="PATTERN" value="No152_maxProduct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No152_maxProduct.Solution" />
         <item itemvalue="Application.No148_sortLinkList.Solution" />
         <item itemvalue="Application.No146_LRU.Solution" />
         <item itemvalue="Application.No139_wordBreak.Solution" />
         <item itemvalue="Application.No136_singleNumber.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,7 @@
       <updated>1667195536407</updated>
       <workItem from="1667195537682" duration="4919000" />
       <workItem from="1668479414216" duration="20331000" />
-      <workItem from="1668909492909" duration="8073000" />
+      <workItem from="1668909492909" duration="10382000" />
     </task>
     <servers />
   </component>
@@ -166,6 +166,16 @@
           <url>file://$PROJECT_DIR$/src/No146_LRU/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No148_sortLinkList/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No152_maxProduct/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

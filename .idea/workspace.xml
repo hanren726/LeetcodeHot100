@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No309_maxProfit/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No322_coinChange/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,20 +35,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.No300_lengthOfLIS.Solution">
-    <configuration name="No169_majorityElement.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No169_majorityElement.Solution" />
-      <module name="LeetcodeHot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="No169_majorityElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="No200_numIslands.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No200_numIslands.Solution" />
       <module name="LeetcodeHot100" />
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No322_coinChange.Solution" />
+      <module name="LeetcodeHot100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="No322_coinChange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.No300_lengthOfLIS.Solution" />
         <item itemvalue="Application.No283_moveZeroes.Solution" />
         <item itemvalue="Application.No215_findKthLargest.Solution" />
         <item itemvalue="Application.No200_numIslands.Solution" />
-        <item itemvalue="Application.No169_majorityElement.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +126,7 @@
       <workItem from="1669277792417" duration="13769000" />
       <workItem from="1669629607458" duration="106000" />
       <workItem from="1669687987581" duration="5566000" />
-      <workItem from="1669793466204" duration="3213000" />
+      <workItem from="1669793466204" duration="5619000" />
     </task>
     <servers />
   </component>

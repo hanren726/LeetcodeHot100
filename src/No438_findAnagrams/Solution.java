@@ -2,6 +2,10 @@ package No438_findAnagrams;
 
 import java.util.*;
 
+/**
+ * https://leetcode.cn/problems/find-all-anagrams-in-a-string/solutions/9749/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/
+ * 滑动窗口问题
+ */
 public class Solution {
 
     public static void main(String[] args) {

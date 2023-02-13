@@ -1,5 +1,6 @@
 package offer.No20;
 
+
 public class Solution {
 
     public int countSubstrings(String s) {

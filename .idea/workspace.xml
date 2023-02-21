@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/No33/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No34/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No36/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No40/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No41/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No57/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No58/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No59/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/No20/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/No20/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/No17_letterCombine/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No17_letterCombine/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "leetcode.id"
   }
-}</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="No146_LRU.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No146_LRU.Solution" />
+}]]></component>
+  <component name="RunManager" selected="Application.offer.No59.Solution">
+    <configuration name="No17_letterCombine.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No17_letterCombine.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="No146_LRU.*" />
+          <option name="PATTERN" value="No17_letterCombine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No40.Solution" />
+    <configuration name="offer.No41.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No41.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No40.*" />
+          <option name="PATTERN" value="offer.No41.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No33.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No33.Solution" />
+    <configuration name="offer.No57.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No57.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No33.*" />
+          <option name="PATTERN" value="offer.No57.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No34.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No34.Solution" />
+    <configuration name="offer.No58.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No58.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No34.*" />
+          <option name="PATTERN" value="offer.No58.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No36.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No36.Solution" />
+    <configuration name="offer.No59.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No59.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No36.*" />
+          <option name="PATTERN" value="offer.No59.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.offer.No36.Solution" />
-        <item itemvalue="Application.offer.No34.Solution" />
-        <item itemvalue="Application.offer.No33.Solution" />
-        <item itemvalue="Application.No146_LRU.Solution" />
+        <item itemvalue="Application.offer.No59.Solution" />
+        <item itemvalue="Application.offer.No58.Solution" />
+        <item itemvalue="Application.offer.No57.Solution" />
+        <item itemvalue="Application.offer.No41.Solution" />
+        <item itemvalue="Application.No17_letterCombine.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +135,7 @@
       <workItem from="1670566199884" duration="7629000" />
       <workItem from="1671005360778" duration="20000" />
       <workItem from="1671014377901" duration="4858000" />
-      <workItem from="1675738226117" duration="8718000" />
+      <workItem from="1675738226117" duration="20474000" />
     </task>
     <servers />
   </component>
@@ -304,6 +305,31 @@
           <url>file://$PROJECT_DIR$/src/offer/No40/Solution.java</url>
           <line>27</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/No17_letterCombine/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No57/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No58/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No59/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

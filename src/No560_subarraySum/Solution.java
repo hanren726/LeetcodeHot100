@@ -1,11 +1,5 @@
 package No560_subarraySum;
-
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-import com.sun.org.apache.bcel.internal.generic.INEG;
-
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class Solution {

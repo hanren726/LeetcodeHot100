@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10fdd84-0198-4384-968c-47e1d4fd13e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/No41/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No57/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No58/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/No59/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No76/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No79/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No80/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No81/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/No86/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/No17_letterCombine/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No17_letterCombine/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/No560_subarraySum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No560_subarraySum/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "leetcode.id"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.offer.No59.Solution">
-    <configuration name="No17_letterCombine.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No17_letterCombine.Solution" />
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No79.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="No17_letterCombine.*" />
+          <option name="PATTERN" value="offer.No79.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No41.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No41.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No80.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No41.*" />
+          <option name="PATTERN" value="offer.No80.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No57.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No57.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No86.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No57.*" />
+          <option name="PATTERN" value="offer.No86.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offer.No58.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.No58.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.No76.Solution" />
       <module name="LeetcodeHot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.No58.*" />
+          <option name="PATTERN" value="offer.No76.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.offer.No59.Solution" />
-        <item itemvalue="Application.offer.No58.Solution" />
-        <item itemvalue="Application.offer.No57.Solution" />
-        <item itemvalue="Application.offer.No41.Solution" />
-        <item itemvalue="Application.No17_letterCombine.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +146,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -223,7 +218,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/No560_subarraySum/Solution.java</url>
-          <line>35</line>
+          <line>29</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -330,6 +325,21 @@
           <url>file://$PROJECT_DIR$/src/offer/No59/Solution.java</url>
           <line>23</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No76/Solution.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No79/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/No86/Solution.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

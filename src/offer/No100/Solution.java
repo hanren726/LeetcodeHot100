@@ -39,13 +39,12 @@ public class Solution {
             dp[i][0] = dp[i - 1][0] + triangle.get(i).get(0);
         }
         for (int i = 1; i < level; i++) {
-            for (int j = 1; j < triangle.get(i).size(); j++) {
-                if (triangle.get(i - 1).size() == j) {
-                    dp[i][j] = dp[i - 1][j - 1] + triangle.get(i).get(j);
-                } else {
-                    dp[i][j] = Math.min(dp[i - 1][j], dp[i - 1][j - 1]) + triangle.get(i).get(j);
-                }
+            for (int j = 1; j < i; j++) {
+                dp[i][j] = Math.min(dp[i - 1][j], dp[i - 1][j - 1]) + triangle.get(i).get(j);
             }
+        }
+        for (int i = 1; i < level; i++) {
+            dp[i][i] = dp[i - 1][i - 1] + triangle.get(i).get(0);
         }
         int min = Integer.MAX_VALUE;
         for (int i = 0; i < lastCount; i++) {
